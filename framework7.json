@@ -1,0 +1,25 @@
+{
+  "cwd": "D:\\DEV_SERVER\\htdocs\\2022\\dev\\react\\com.f7.pushcode",
+  "type": [
+    "capacitor"
+  ],
+  "name": "Pushcode",
+  "framework": "react",
+  "template": "single-view",
+  "bundler": "vite",
+  "cssPreProcessor": false,
+  "theming": {
+    "customColor": false,
+    "color": "#007aff",
+    "darkTheme": true,
+    "iconFonts": true,
+    "fillBars": true
+  },
+  "customBuild": false,
+  "pkg": "com.f7.pushcode",
+  "capacitor": {
+    "platforms": [
+      "android"
+    ]
+  }
+}
